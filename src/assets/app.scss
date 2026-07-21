@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
 @import "vars.scss";
 @import "multiselect.scss";
 @import "node_modules/bootstrap/scss/bootstrap";
 
 #app {
     font-family:
+        "Google Sans",
         "Twemoji Country Flags",
         BlinkMacSystemFont,
         segoe ui,
